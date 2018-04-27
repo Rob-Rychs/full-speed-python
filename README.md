@@ -1,5 +1,14 @@
 # Full Speed Python
 
+Some accompanying reading from the overflowing stacks:
+PYTHON:
+https://stackoverflow.com/questions/691946/short-and-useful-python-snippets
+https://stackoverflow.com/questions/691946/short-and-useful-python-snippets
+BASH:
+https://stackoverflow.com/questions/965663/useful-bash-code-snippets?noredirect=1&lq=1
+https://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash
+
+
 Pdf and epub files can be downloaded from: https://github.com/joaoventura/full-speed-python/releases/
 
 This book aims to teach the Python programming language using a practical approach. Its method is quite simple: after a short introduction to each topic, the reader is invited to learn more by solving the proposed exercises.
